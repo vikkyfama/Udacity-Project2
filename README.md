@@ -8,5 +8,5 @@ Standardization is the end goal of any machine learning operationalization. ONNX
 
 ### PROJECT WORKFLOW
 Registering the Bank Marketing dataset to be used for AutoML. Dataset is saved in the blobstore of the respective workspace.
-![alt text].(https://github.com/vikkyfama/Udacity-Project2/blob/toriabranch/Bankmarketing%20train.png)
+![alt text](https://github.com/vikkyfama/Udacity-Project2/blob/toriabranch/Bankmarketingtrain.png)
 
