@@ -15,3 +15,6 @@ Standardization is the end goal of any machine learning operationalization. ONNX
 
 3.Enabling Application Insight so as to visualize performance of the deployed model.
 ![alt text](https://github.com/vikkyfama/Udacity-Project2/blob/toriabranch/ApplicationInsightEnabled.png)
+
+![alt text](https://github.com/vikkyfama/Udacity-Project2/blob/toriabranch/Logscript1.png)
+
