@@ -12,3 +12,6 @@ Standardization is the end goal of any machine learning operationalization. ONNX
 
 2. A completed AutoML run of the Bank marketing dataset displaying the Best Model Achieved and a summary of the details.
 ![alt text](https://github.com/vikkyfama/Udacity-Project2/blob/toriabranch/AutoMLcompleted.png)
+
+3.Enabling Application Insight so as to visualize performance of the deployed model.
+![alt text](https://github.com/vikkyfama/Udacity-Project2/blob/toriabranch/ApplicationInsightEnabled.png)
