@@ -44,8 +44,11 @@ Standardization is the end goal of any machine learning operationalization. ONNX
 
 ![alt text](https://github.com/vikkyfama/Udacity-Project2/blob/toriabranch/Benchmarksh5.png)
 
-8. Pipeline endpoint of the Bank marketing dataset with active status 
+8.RunDetails Widget showing step runs
+![alt text](https://github.com/vikkyfama/Udacity-Project2/blob/toriabranch/UseRunDetailsWidget.png)
+
+9. Pipeline endpoint of the Bank marketing dataset with active status 
 ![alt text](https://github.com/vikkyfama/Udacity-Project2/blob/toriabranch/PipelineEndpoint.png)
 
-9. Scheduled Pipeline run
+10. Scheduled Pipeline run
 ![alt text](https://github.com/vikkyfama/Udacity-Project2/blob/toriabranch/Scheduledrun.png)
