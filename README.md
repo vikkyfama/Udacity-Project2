@@ -24,10 +24,15 @@ Standardization is the end goal of any machine learning operationalization. ONNX
 
 ![alt text](https://github.com/vikkyfama/Udacity-Project2/blob/toriabranch/Logscript3.png)
 
+5. Swagger running on locahost showing the HTTP API methods and responses for the model.
 
 ![alt text](https://github.com/vikkyfama/Udacity-Project2/blob/toriabranch/Swaggerresponsemodel.png)
 
+6. The endpoint.py script runs against the API producing JSON output from the model.
+
 ![alt text](https://github.com/vikkyfama/Udacity-Project2/blob/toriabranch/EndpointOutput.png)
+
+7. The following screenshots show the Apache Benchmark runs against the HTTP API using authentication keys in other to retrieve performance results:
 
 ![alt text](https://github.com/vikkyfama/Udacity-Project2/blob/toriabranch/Benchmarksh1.png)
 
@@ -37,3 +42,4 @@ Standardization is the end goal of any machine learning operationalization. ONNX
 
 ![alt text](https://github.com/vikkyfama/Udacity-Project2/blob/toriabranch/Benchmarksh4.png)
 
+![alt text](https://github.com/vikkyfama/Udacity-Project2/blob/toriabranch/Benchmarksh5.png)
