@@ -28,3 +28,6 @@ Standardization is the end goal of any machine learning operationalization. ONNX
 ![alt text](https://github.com/vikkyfama/Udacity-Project2/blob/toriabranch/Swaggerresponsemodel.png)
 
 ![alt text](https://github.com/vikkyfama/Udacity-Project2/blob/toriabranch/EndpointOutput.png)
+
+![alt text](https://github.com/vikkyfama/Udacity-Project2/blob/toriabranch/Benchmarksh1.png)
+
