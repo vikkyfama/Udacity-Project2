@@ -84,6 +84,8 @@ This is the second project of the Udacity Azure ML Nanodegree program. In this p
 12. Pipeline endpoint as active
 13. Scheduled run
     https://github.com/vikkyfama/Udacity-Project2/blob/toriabranch/Schedulerun1%20of%202.png
+    
+    https://github.com/vikkyfama/Udacity-Project2/blob/toriabranch/Schedulerun2%20of%202.png
 
 
 ### PROJECT DEMONSTRATION
