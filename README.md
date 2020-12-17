@@ -68,16 +68,20 @@ This is the second project of the Udacity Azure ML Nanodegree program. In this p
     https://github.com/vikkyfama/Udacity-Project2/blob/toriabranch/Benchmarksh4.png
     https://github.com/vikkyfama/Udacity-Project2/blob/toriabranch/Benchmarksh5.png
 
-8.RunDetails Widget showing step runs
-    https://github.com/vikkyfama/Udacity-Project2/blob/toriabranch/RunDetailsWidget2.png
 
-9. Pipeline Created 
+8. Pipeline Created 
     https://github.com/vikkyfama/Udacity-Project2/blob/toriabranch/Pipelinecreated2.png
 
-10. Bankmarketing Dataset with the AutoML module
-https://github.com/vikkyfama/Udacity-Project2/blob/toriabranch/Registered%20Bankmarketing%20Dataset2.jpg
+9. Bankmarketing Dataset with the AutoML module
+    https://github.com/vikkyfama/Udacity-Project2/blob/toriabranch/Registered%20Bankmarketing%20Dataset2.jpg
 
-11. 
+10. Published Pipeline Overview showing a REST endpoint and a status of ACTIVE.
+    https://github.com/vikkyfama/Udacity-Project2/blob/toriabranch/PublishedpipelineOverview2.png
+    
+11.RunDetails Widget showing step runs
+    https://github.com/vikkyfama/Udacity-Project2/blob/toriabranch/RunDetailsWidget2.png
+    
+12. 
 
 
 ### PROJECT DEMONSTRATION
