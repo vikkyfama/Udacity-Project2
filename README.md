@@ -62,10 +62,15 @@ This is the second project of the Udacity Azure ML Nanodegree program. In this p
   iii. Ran the endpoint.py script to generate a data.json file.
   iv. Ran the benchmark.sh file and the output displayed were as expected.
   v. Apache Benchmark successfully runs against the HTTP API.
+  
     https://github.com/vikkyfama/Udacity-Project2/blob/toriabranch/Benchmarksh1.png
+    
     https://github.com/vikkyfama/Udacity-Project2/blob/toriabranch/Benchmarksh2.png
+    
     https://github.com/vikkyfama/Udacity-Project2/blob/toriabranch/Benchmarksh3.png
+    
     https://github.com/vikkyfama/Udacity-Project2/blob/toriabranch/Benchmarksh4.png
+    
     https://github.com/vikkyfama/Udacity-Project2/blob/toriabranch/Benchmarksh5.png
 
 
@@ -82,6 +87,8 @@ This is the second project of the Udacity Azure ML Nanodegree program. In this p
     https://github.com/vikkyfama/Udacity-Project2/blob/toriabranch/RunDetailsWidget2.png
     
 12. Pipeline endpoint as active
+     https://github.com/vikkyfama/Udacity-Project2/blob/toriabranch/Pipeline%20endpoint2.png
+     
 13. Scheduled run
     https://github.com/vikkyfama/Udacity-Project2/blob/toriabranch/Schedulerun1%20of%202.png
     
