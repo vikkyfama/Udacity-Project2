@@ -71,8 +71,8 @@ This is the second project of the Udacity Azure ML Nanodegree program. In this p
 8.RunDetails Widget showing step runs
     https://github.com/vikkyfama/Udacity-Project2/blob/toriabranch/RunDetailsWidget2.png
 
-9. Pipeline endpoint of the Bank marketing dataset with active status 
-![alt text](https://github.com/vikkyfama/Udacity-Project2/blob/toriabranch/PipelineEndpoint.png)
+9. Pipeline Created 
+    https://github.com/vikkyfama/Udacity-Project2/blob/toriabranch/Pipelinecreated2.png
 
 10. Scheduled Pipeline run
 ![alt text](https://github.com/vikkyfama/Udacity-Project2/blob/toriabranch/Scheduledrun.png)
