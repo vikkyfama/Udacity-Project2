@@ -15,7 +15,7 @@ This is the second project of the Udacity Azure ML Nanodegree program. In this p
   iii. The default datastore(workspaceblobstore)and supported file type were selected on the datastore and file selection page.
   iv. On the settings and preview page, the settings were automatically created and the selections were cross-checked to be correct.
   v. Details were confirmed and the Registered Bank Marketing Dataset was created.  
-  ![alt text](https://github.com/vikkyfama/Udacity-Project2/blob/toriabranch/Bankmarketingtrain.png)
+  https://github.com/vikkyfama/Udacity-Project2/blob/toriabranch/Bankmarketingtrain.png
 
 2. A completed AutoML run of the Bank marketing dataset shown as completed:
   i. A new autoML run was selected
