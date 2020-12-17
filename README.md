@@ -69,7 +69,7 @@ This is the second project of the Udacity Azure ML Nanodegree program. In this p
     https://github.com/vikkyfama/Udacity-Project2/blob/toriabranch/Benchmarksh5.png
 
 8.RunDetails Widget showing step runs
-![alt text](https://github.com/vikkyfama/Udacity-Project2/blob/toriabranch/UseRunDetailsWidget.png)
+    https://github.com/vikkyfama/Udacity-Project2/blob/toriabranch/RunDetailsWidget2.png
 
 9. Pipeline endpoint of the Bank marketing dataset with active status 
 ![alt text](https://github.com/vikkyfama/Udacity-Project2/blob/toriabranch/PipelineEndpoint.png)
