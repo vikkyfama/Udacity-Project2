@@ -74,8 +74,10 @@ This is the second project of the Udacity Azure ML Nanodegree program. In this p
 9. Pipeline Created 
     https://github.com/vikkyfama/Udacity-Project2/blob/toriabranch/Pipelinecreated2.png
 
-10. Scheduled Pipeline run
-![alt text](https://github.com/vikkyfama/Udacity-Project2/blob/toriabranch/Scheduledrun.png)
+10. Bankmarketing Dataset with the AutoML module
+https://github.com/vikkyfama/Udacity-Project2/blob/toriabranch/Registered%20Bankmarketing%20Dataset2.jpg
+
+11. 
 
 
 ### PROJECT DEMONSTRATION
