@@ -15,7 +15,7 @@ This is the second project of the Udacity Azure ML Nanodegree program. In this p
   iii. The default datastore(workspaceblobstore)and supported file type were selected on the datastore and file selection page.
   iv. On the settings and preview page, the settings were automatically created and the selections were cross-checked to be correct.
   v. Details were confirmed and the Registered Bank Marketing Dataset was created.  
-  https://github.com/vikkyfama/Udacity-Project2/blob/toriabranch/Bankmarketingtrain.png
+    https://github.com/vikkyfama/Udacity-Project2/blob/toriabranch/Bankmarketingtrain.png
 
 2. A completed AutoML run of the Bank marketing dataset shown as completed:
   i. A new autoML run was selected
@@ -23,7 +23,7 @@ This is the second project of the Udacity Azure ML Nanodegree program. In this p
   iii. On the configure run page, a new experiment was created, target column was selected and a new compute was created with details of specification in mind.
   iv. On the Task type and settings page, Classification was selected as the task type and settings were checked to be satisfactory.
   v. AutoML run was successfully completed. 
-  ![alt text](https://github.com/vikkyfama/Udacity-Project2/blob/toriabranch/AutoMLcompleted.png)
+    https://github.com/vikkyfama/Udacity-Project2/blob/toriabranch/AutoMLcompleted.png
 
 3.Enabling Application Insight so as to visualize performance of the deployed model:
   i. On the logs.py script, the config was first downloaded to my current working directory.
@@ -31,15 +31,15 @@ This is the second project of the Udacity Azure ML Nanodegree program. In this p
   iii. An existing web service (service) was loaded using both the name and workspace.
   iv. service was updated to enable app insight(True)
   v. On Endpoint module, Application Insights enabled is set to true.
-  ![alt text](https://github.com/vikkyfama/Udacity-Project2/blob/toriabranch/ApplicationInsightEnabled.png)
+   https://github.com/vikkyfama/Udacity-Project2/blob/toriabranch/ApplicationInsightEnabled.png
 
 4. The following screenshots show how logging was enabled by running the provided logs.py script:
 
-  ![alt text](https://github.com/vikkyfama/Udacity-Project2/blob/toriabranch/Logscript1.png)
+    https://github.com/vikkyfama/Udacity-Project2/blob/toriabranch/Logscript1.png
 
-  ![alt text](https://github.com/vikkyfama/Udacity-Project2/blob/toriabranch/Logscript2.png)
+    https://github.com/vikkyfama/Udacity-Project2/blob/toriabranch/Logscript2.png
 
-  ![alt text](https://github.com/vikkyfama/Udacity-Project2/blob/toriabranch/Logscript3.png)
+    https://github.com/vikkyfama/Udacity-Project2/blob/toriabranch/Logscript3.png
 
 5. Swagger running on locahost showing the HTTP API methods:
   i. On the Endpoint module, clicked on the swagger URL which takes us to a JSON Page
@@ -47,14 +47,14 @@ This is the second project of the Udacity Azure ML Nanodegree program. In this p
   iii. Ran the swagger.sh on a command prompt so as to download the latest swagger container and ran it on port 9000.
   iv. Ran the serve.py script so as to start a python server on port 8000 making such both files(swagger.json and serve.py)are in the same folder.
   v. Results is swagger runs on the localhost showing the HTTP API methods and responses for the model. 
-  ![alt text](https://github.com/vikkyfama/Udacity-Project2/blob/toriabranch/Swaggerresponsemodel.png)
+    https://github.com/vikkyfama/Udacity-Project2/blob/toriabranch/Swaggerresponsemodel.png
 
 6. The endpoint.py script runs against the API producing JSON output from the model:
   i. On the Endpoint.py script, the scoring_uri and the key were updated with the key and URL generated after deployment.
   ii. The data on the script was also updated to fit the data on the bank marketing dataset.
   iii.After execution of the endpoint.py script results generated were as expected. 
-  ![alt text](https://github.com/vikkyfama/Udacity-Project2/blob/toriabranch/Swaggerresponsemodel.png)
-  ![alt text](https://github.com/vikkyfama/Udacity-Project2/blob/toriabranch/EndpointOutput.png)
+    https://github.com/vikkyfama/Udacity-Project2/blob/toriabranch/Swaggerresponsemodel.png
+    https://github.com/vikkyfama/Udacity-Project2/blob/toriabranch/EndpointOutput.png
 
 7. The following screenshots show the Apache Benchmark runs against the HTTP API using authentication keys in other to retrieve performance results:
   i. Apache Benchmark was installed and made available on my path.
@@ -62,11 +62,11 @@ This is the second project of the Udacity Azure ML Nanodegree program. In this p
   iii. Ran the endpoint.py script to generate a data.json file.
   iv. Ran the benchmark.sh file and the output displayed were as expected.
   v. Apache Benchmark successfully runs against the HTTP API.
-  ![alt text](https://github.com/vikkyfama/Udacity-Project2/blob/toriabranch/Benchmarksh1.png)
-  ![alt text](https://github.com/vikkyfama/Udacity-Project2/blob/toriabranch/Benchmarksh2.png)
-  ![alt text](https://github.com/vikkyfama/Udacity-Project2/blob/toriabranch/Benchmarksh3.png)
-  ![alt text](https://github.com/vikkyfama/Udacity-Project2/blob/toriabranch/Benchmarksh4.png)
-  ![alt text](https://github.com/vikkyfama/Udacity-Project2/blob/toriabranch/Benchmarksh5.png)
+    https://github.com/vikkyfama/Udacity-Project2/blob/toriabranch/Benchmarksh1.png
+    https://github.com/vikkyfama/Udacity-Project2/blob/toriabranch/Benchmarksh2.png
+    https://github.com/vikkyfama/Udacity-Project2/blob/toriabranch/Benchmarksh3.png
+    https://github.com/vikkyfama/Udacity-Project2/blob/toriabranch/Benchmarksh4.png
+    https://github.com/vikkyfama/Udacity-Project2/blob/toriabranch/Benchmarksh5.png
 
 8.RunDetails Widget showing step runs
 ![alt text](https://github.com/vikkyfama/Udacity-Project2/blob/toriabranch/UseRunDetailsWidget.png)
