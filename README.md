@@ -81,7 +81,9 @@ This is the second project of the Udacity Azure ML Nanodegree program. In this p
 11.RunDetails Widget showing step runs
     https://github.com/vikkyfama/Udacity-Project2/blob/toriabranch/RunDetailsWidget2.png
     
-12. 
+12. Pipeline endpoint as active
+13. Scheduled run
+    https://github.com/vikkyfama/Udacity-Project2/blob/toriabranch/Schedulerun1%20of%202.png
 
 
 ### PROJECT DEMONSTRATION
