@@ -91,8 +91,6 @@ This is the second project of the Udacity Azure ML Nanodegree program. In this p
      
 13. Scheduled run
     ![alt text](https://github.com/vikkyfama/Udacity-Project2/blob/toriabranch/Scheduled%20Run.png)
-    
-    ![alt text](https://github.com/vikkyfama/Udacity-Project2/blob/toriabranch/Schedulerun2%20of%202.png)
 
 
 ### PROJECT DEMONSTRATION
