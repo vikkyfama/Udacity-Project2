@@ -23,7 +23,7 @@ This is the second project of the Udacity Azure ML Nanodegree program. In this p
   iii. On the configure run page, a new experiment was created, target column was selected and a new compute was created with details of specification in mind.
   iv. On the Task type and settings page, Classification was selected as the task type and settings were checked to be satisfactory.
   v. AutoML run was successfully completed. 
-    ![alt text](https://github.com/vikkyfama/Udacity-Project2/blob/toriabranch/AutoMLcompleted.png)
+    ![alt text](https://github.com/vikkyfama/Udacity-Project2/blob/toriabranch/images/AutoMLcompleted.png)
 
 3.Enabling Application Insight so as to visualize performance of the deployed model:
   i. On the logs.py script, the config was first downloaded to my current working directory.
@@ -31,15 +31,15 @@ This is the second project of the Udacity Azure ML Nanodegree program. In this p
   iii. An existing web service (service) was loaded using both the name and workspace.
   iv. service was updated to enable app insight(True)
   v. On Endpoint module, Application Insights enabled is set to true.
-   ![alt text](https://github.com/vikkyfama/Udacity-Project2/blob/toriabranch/ApplicationInsightEnabled.png)
+   ![alt text](https://github.com/vikkyfama/Udacity-Project2/blob/toriabranch/images/ApplicationInsightEnabled.png)
 
 4. The following screenshots show how logging was enabled by running the provided logs.py script:
 
-    ![alt text](https://github.com/vikkyfama/Udacity-Project2/blob/toriabranch/Logscript1.png)
+    ![alt text](https://github.com/vikkyfama/Udacity-Project2/blob/toriabranch/images/Logscript1.png)
 
-    ![alt text](https://github.com/vikkyfama/Udacity-Project2/blob/toriabranch/Logscript2.png)
+    ![alt text](https://github.com/vikkyfama/Udacity-Project2/blob/toriabranch/images/Logscript2.png)
 
-    ![alt text](https://github.com/vikkyfama/Udacity-Project2/blob/toriabranch/Logscript3.png)
+    ![alt text](https://github.com/vikkyfama/Udacity-Project2/blob/toriabranch/images/Logscript3.png)
 
 5. Swagger running on locahost showing the HTTP API methods:
   i. On the Endpoint module, clicked on the swagger URL which takes us to a JSON Page
@@ -47,14 +47,14 @@ This is the second project of the Udacity Azure ML Nanodegree program. In this p
   iii. Ran the swagger.sh on a command prompt so as to download the latest swagger container and ran it on port 9000.
   iv. Ran the serve.py script so as to start a python server on port 8000 making such both files(swagger.json and serve.py)are in the same folder.
   v. Results is swagger runs on the localhost showing the HTTP API methods and responses for the model. 
-    ![alt text](https://github.com/vikkyfama/Udacity-Project2/blob/toriabranch/Swaggerresponsemodel.png)
+    ![alt text](https://github.com/vikkyfama/Udacity-Project2/blob/toriabranch/images/Swaggerresponsemodel.png)
 
 6. The endpoint.py script runs against the API producing JSON output from the model:
   i. On the Endpoint.py script, the scoring_uri and the key were updated with the key and URL generated after deployment.
   ii. The data on the script was also updated to fit the data on the bank marketing dataset.
   iii.After execution of the endpoint.py script results generated were as expected. 
-    ![alt text](https://github.com/vikkyfama/Udacity-Project2/blob/toriabranch/Swaggerresponsemodel.png)
-    ![alt text](https://github.com/vikkyfama/Udacity-Project2/blob/toriabranch/EndpointOutput.png)
+    ![alt text](https://github.com/vikkyfama/Udacity-Project2/blob/toriabranch/images/Swaggerresponsemodel.png)
+    ![alt text](https://github.com/vikkyfama/Udacity-Project2/blob/toriabranch/images/EndpointOutput.png)
 
 7. The following screenshots show the Apache Benchmark runs against the HTTP API using authentication keys in other to retrieve performance results:
   i. Apache Benchmark was installed and made available on my path.
@@ -63,34 +63,34 @@ This is the second project of the Udacity Azure ML Nanodegree program. In this p
   iv. Ran the benchmark.sh file and the output displayed were as expected.
   v. Apache Benchmark successfully runs against the HTTP API.
   
-    ![alt text](https://github.com/vikkyfama/Udacity-Project2/blob/toriabranch/Benchmarksh1.png)
+    ![alt text](https://github.com/vikkyfama/Udacity-Project2/blob/toriabranch/images/Benchmarksh1.png)
     
-   ![alt text](https://github.com/vikkyfama/Udacity-Project2/blob/toriabranch/Benchmarksh2.png)
+   ![alt text](https://github.com/vikkyfama/Udacity-Project2/blob/toriabranch/images/Benchmarksh2.png)
     
-    ![alt text](https://github.com/vikkyfama/Udacity-Project2/blob/toriabranch/Benchmarksh3.png)
+    ![alt text](https://github.com/vikkyfama/Udacity-Project2/blob/toriabranch/images/Benchmarksh3.png)
     
-    ![alt text](https://github.com/vikkyfama/Udacity-Project2/blob/toriabranch/Benchmarksh4.png)
+    ![alt text](https://github.com/vikkyfama/Udacity-Project2/blob/toriabranch/images/Benchmarksh4.png)
     
-    ![alt text](https://github.com/vikkyfama/Udacity-Project2/blob/toriabranch/Benchmarksh5.png)
+    ![alt text](https://github.com/vikkyfama/Udacity-Project2/blob/toriabranch/images/Benchmarksh5.png)
 
 
 8. Pipeline Created 
-    ![alt text](https://github.com/vikkyfama/Udacity-Project2/blob/toriabranch/Pipelinecreated2.png)
+    ![alt text](https://github.com/vikkyfama/Udacity-Project2/blob/toriabranch/images/Pipelinecreated2.png)
 
 9. Bankmarketing Dataset with the AutoML module
-    ![alt text](https://github.com/vikkyfama/Udacity-Project2/blob/toriabranch/Bankmarketing%20Dataset%20with%20AutoML%20Module.png)
+    ![alt text](https://github.com/vikkyfama/Udacity-Project2/blob/toriabranch/images/Bankmarketing%20Dataset%20with%20AutoML%20Module.png)
 
 10. Published Pipeline Overview showing a REST endpoint and a status of ACTIVE.
-   ![alt text](https://github.com/vikkyfama/Udacity-Project2/blob/toriabranch/PublishedpipelineOverview2.png)
+   ![alt text](https://github.com/vikkyfama/Udacity-Project2/blob/toriabranch/images/PublishedpipelineOverview2.png)
     
 11.RunDetails Widget showing step runs
-    ![alt text](https://github.com/vikkyfama/Udacity-Project2/blob/toriabranch/RunDetailsWidget2.png)
+    ![alt text](https://github.com/vikkyfama/Udacity-Project2/blob/toriabranch/images/RunDetailsWidget2.png)
     
 12. Pipeline endpoint as active
-     ![alt text](https://github.com/vikkyfama/Udacity-Project2/blob/toriabranch/Pipeline%20endpoint2.png)
+     ![alt text](https://github.com/vikkyfama/Udacity-Project2/blob/toriabranch/images/Pipeline%20endpoint2.png)
      
 13. Scheduled run
-    ![alt text](https://github.com/vikkyfama/Udacity-Project2/blob/toriabranch/Scheduled%20Run.png)
+    ![alt text](https://github.com/vikkyfama/Udacity-Project2/blob/toriabranch/images/Scheduled%20Run.png)
 
 
 ### PROJECT DEMONSTRATION
